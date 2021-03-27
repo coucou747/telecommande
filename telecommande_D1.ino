@@ -14,7 +14,7 @@ typedef struct {
 char lbl_plus[] = "+";
 char lbl_moins[] = "-";
 char lbl_auto[] = "auto";
-char lbl_numb[] = "auto";
+char lbl_numb[] = "numb";
 
 char lbl_onOff[] = "On/Off";
 char lbl_onOff5[] = "On/Off5";
